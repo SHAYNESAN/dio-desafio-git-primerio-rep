@@ -1,0 +1,15 @@
+﻿Comandos basicos do Git
+
+git add . Ou git add -a – incluir os arquivos para serem comitados
+
+git commit -m “mensagem” – Comitando os arquivos
+
+git pull origin main ou  master – Atualizar os arquivos do repositorio github para o local
+
+git push origin main ou master – Enviar os arquivos local para o github
+
+git status -  verifcar o status do git
+
+
+
+
